@@ -37,7 +37,9 @@ Cromaca content management system
 
 ### Application Layout
 
-/srv/webroot/cmkcms
+```
+
+    /srv/webroot/cmkcms
             app/
               web application code
             doc/
@@ -45,7 +47,7 @@ Cromaca content management system
             provision/
             tools/
             fs/ (nfs mounted or local storage)
-            
+```            
 
 ### Use
 
